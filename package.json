@@ -1,0 +1,27 @@
+{
+  "name": "@pxtrn/wss",
+  "version": "0.0.1",
+  "description": "Simple pub/sub websocket server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixtron/wss.git"
+  },
+  "keywords": [
+    "websocket",
+    "autobahn",
+    "pub/sub"
+  ],
+  "author": "Stefan Aebischer <os@pixtron.ch> (https://pixtron.ch)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixtron/wss/issues"
+  },
+  "homepage": "https://github.com/pixtron/wss#readme",
+  "dependencies": {
+    "ws": "^7.1.2"
+  }
+}
